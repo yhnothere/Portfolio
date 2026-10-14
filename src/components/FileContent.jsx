@@ -8,8 +8,8 @@ function AboutContent() {
             <p>
                 I'm a Computer Science undergraduate graduating in 2027, with hands-on experience in 
                 software engineering, AI-powered automation, and DevOps. My technical background spans 
-                building low-level systems in C++, developing enterprise automation frameworks, 
-                and creating cloud applications integrated with machine learning and financial APIs.
+                building low-level systems in C++, developing enterprise automation frameworks, and 
+                creating cloud applications integrated with machine learning and financial APIs.
             </p>
             <p>
                 I'm driven by opportunities to solve complex engineering challenges, explore emerging technologies, 
